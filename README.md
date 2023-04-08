@@ -1,12 +1,11 @@
 # Projects-Portfolio
 
 ### [NLP-powered Recommender System using Knowledge Graph for Tourism](https://github.com/MoRaouf/NLP-powered-Recommender-System-using-Knowledge-Graph-for-Tourism)
-Pandas | Matplotlib | spaCy | Neo4j | crosslingual_coreference
+> Pandas | Matplotlib | spaCy | Neo4j | crosslingual_coreference
 
-➔ Trained state-of-the-art RoBERTa model on tourism data for the RecSys.
-➔ Built a knowledge graph database using Neo4j.
-➔ The fine-tuned model scored 76.61%, 70.37% and 73.35% for precision, 
-       recall and F1 score, respectively.
+* Trained state-of-the-art RoBERTa model on tourism data for the RecSys.
+* Built a knowledge graph database using Neo4j.
+* The fine-tuned model scored 76.61%, 70.37% and 73.35% for precision, recall and F1 score, respectively.
 
 
 ### [Technical Job Recommender](https://github.com/MoRaouf/Tech-Job-Recommendation) ### 
