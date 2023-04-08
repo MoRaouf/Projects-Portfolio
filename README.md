@@ -48,7 +48,7 @@ Applied various Machine Learning algorithms to predict package purchase in Touri
 ### [Particle Swarm Optimization for ANN](https://github.com/MoRaouf/Particle-Swarm-Optimization-for-ANN) ###
 * Implemented Particle Swarm Optimization algorithm from Genetic Algorithms to train Artificial Neural Networks instead of Gradient Descent.
 
-### [ANN Implementation from Scratch]([https://github.com/MoRaouf/Particle-Swarm-Optimization-for-ANN](https://github.com/MoRaouf/ANN-Implementation-from-Scratch)) ###
+### [ANN Implementation from Scratch](https://github.com/MoRaouf/ANN-Implementation-from-Scratch)) ###
 * Implemented Artificial Neural Network from scratch including simple Perceptron & Multilayer Perceptron.
 ----
 
