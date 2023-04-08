@@ -1,8 +1,12 @@
 # Projects-Portfolio
 
 ### [NLP-powered Recommender System using Knowledge Graph for Tourism](https://github.com/MoRaouf/NLP-powered-Recommender-System-using-Knowledge-Graph-for-Tourism)
-* Utilized Python programming language and Bash scripting to preprocess and extract features from 4D complex
-* Employed signal processing techniques with Python programming language to modulate respiratory signals with calculated brain signal speed.
+Pandas | Matplotlib | spaCy | Neo4j | crosslingual_coreference
+    ➔ Trained state-of-the-art RoBERTa model on tourism data for the RecSys.
+    ➔ Built a knowledge graph database using Neo4j.
+    ➔ The fine-tuned model scored 76.61%, 70.37% and 73.35% for precision, 
+       recall and F1 score, respectively.
+
 
 ### [Technical Job Recommender](https://github.com/MoRaouf/Tech-Job-Recommendation) ### 
 * Developed a real-time sign language interpretation application using React.js, tensroflow and tensorflow.js and deployed on IBM cloud servies.
