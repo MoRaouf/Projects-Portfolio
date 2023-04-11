@@ -14,7 +14,7 @@
 * Deployed the model as streamlit application for recommendation.
 
 
-### [Dubai Properties  Recommender System](https://github.com/MoRaouf/Dubai-PropertyAI) ###
+### [Dubai Properties  Recommender System](https://github.com/MoRaouf/Dubai-Real-Estate-AI) ###
 * End to End project on Real Estate in Dubai city. Work is still in progress
 
 ### [British Airways Purchase Behavior Analysis](https://github.com/MoRaouf/BA-Purchase-Behavior-Analysis) ###
