@@ -45,7 +45,7 @@
 
 ### [Holiday Package Recommendations](https://github.com/MoRaouf/Holiday-Package-Recommendations) ###
 > Numpy | Pandas | Matplotlib | Seaborn | Sklearn | KModes
-Applied various Machine Learning algorithms to predict package purchase in Tourism sector.
+* Applied various Machine Learning algorithms to predict package purchase in Tourism sector.
 
 
 ### [Particle Swarm Optimization for ANN](https://github.com/MoRaouf/Particle-Swarm-Optimization-for-ANN) ###
