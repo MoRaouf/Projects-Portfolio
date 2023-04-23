@@ -17,8 +17,8 @@
 ### [Dubai Properties  Recommender System](https://github.com/MoRaouf/Dubai-Real-Estate-AI) ###
 * End to End project on Real Estate in Dubai city. Work is still in progress . . .
 
-### [Higher Education Performance Prediction](https://github.com/MoRaouf/Higher-Education-Performance-Prediction) ###
-* End to End project on higher education students to understand their performance. Work is still in progress . . . 
+### [Analysis of Healthy Lifestyle on Academic Performance](https://github.com/MoRaouf/Academic-Performance-Analysis) ###
+* End to End project on higher education students to understand the relationship between healthy lifestyle & performance. Work is still in progress . . . 
 
 ### [British Airways Purchase Behavior Analysis](https://github.com/MoRaouf/BA-Purchase-Behavior-Analysis) ###
 > Pandas | Seaborn | NLTK | Wordcloud | Sklearn | XGBoost                                                 
