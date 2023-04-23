@@ -11,11 +11,14 @@
 > Pandas | Plotly | Sklearn | MLflow | Streamlit                  
 * Developed a helper tool that recommends suitable technical job & new skills to new technical developers.
 * Worked with real-world Stack Overflow survey dataset for the predictive model. 
-* Deployed the model as streamlit application for recommendation.
+* Deployed the model as a web application using Streamlit.
 
 
 ### [Dubai Properties  Recommender System](https://github.com/MoRaouf/Dubai-Real-Estate-AI) ###
-* End to End project on Real Estate in Dubai city. Work is still in progress
+* End to End project on Real Estate in Dubai city. Work is still in progress . . .
+
+### [Higher Education Performance Prediction](https://github.com/MoRaouf/Higher-Education-Performance-Prediction) ###
+* End to End project on higher education students to understand their performance. Work is still in progress . . . 
 
 ### [British Airways Purchase Behavior Analysis](https://github.com/MoRaouf/BA-Purchase-Behavior-Analysis) ###
 > Pandas | Seaborn | NLTK | Wordcloud | Sklearn | XGBoost                                                 
