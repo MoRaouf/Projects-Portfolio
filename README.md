@@ -1,36 +1,41 @@
 # Projects-Portfolio
 
+### [Retail Sales Forcasting](https://github.com/MoRaouf/Retail-Sales-Forecasting) ###
+> Pandas | Seaborn | Sklearn | XGBoost | Flask | Docker | AWS                                                
+* End-to-End project that predicts weekly sales for a retail store.
+* Worked with real word retail data & applied different data processing techniques for the predictive model training.
+* Trained & fine-tuned different ML models with R2 scores achieved of 98.1% & 96.3% on training & testing, respectively.
+* Deployed the model as a Docker container & web app to AWS Beanstalk
+
+
+### [Technical Job Recommender](https://github.com/MoRaouf/Tech-Job-Recommendation) ### 
+> Numpy | Pandas | Plotly | Sklearn | MLflow | Streamlit                  
+* Developed a helper tool that recommends suitable technical job & new skills to new technical developers.
+* Worked with real-world Stack Overflow survey dataset for the predictive model. 
+* Deployed the model as a web application using Streamlit.
+
+
 ### [NLP-powered Recommender System using Knowledge Graph for Tourism](https://github.com/MoRaouf/NLP-powered-Recommender-System-using-Knowledge-Graph-for-Tourism)
 > Pandas | Matplotlib | spaCy | Neo4j | crosslingual_coreference
 * Trained state-of-the-art RoBERTa model on tourism data for the RecSys.
 * Built a knowledge graph database using Neo4j.
 * The fine-tuned model scored 76.61%, 70.37% and 73.35% for precision, recall and F1 score, respectively.
 
-
-### [Technical Job Recommender](https://github.com/MoRaouf/Tech-Job-Recommendation) ### 
-> Pandas | Plotly | Sklearn | MLflow | Streamlit                  
-* Developed a helper tool that recommends suitable technical job & new skills to new technical developers.
-* Worked with real-world Stack Overflow survey dataset for the predictive model. 
-* Deployed the model as a web application using Streamlit.
-
-
-### [Dubai Properties  Recommender System](https://github.com/MoRaouf/Dubai-Real-Estate-AI) ###
-* End to End project on Real Estate in Dubai city. Work is still in progress . . .
-
-### [Retail Sales Forcasting](https://github.com/MoRaouf/Retail-Sales-Forecasting) ###
-* End-to-End Project on "Forecasting retail sales & undersatnding markdown effects during holidays". Work is still in progress . . . 
-
 ### [British Airways Purchase Behavior Analysis](https://github.com/MoRaouf/BA-Purchase-Behavior-Analysis) ###
-> Pandas | Seaborn | NLTK | Wordcloud | Sklearn | XGBoost                                                 
-* Investigated purcahse analysis on customer flight booking history & information from British Airways.                   
-* Conducted sentiment analysis to understand customers impression about the airline. 
-* Built a predictive model to help in understanding customer future behavior regarding flight purchase.
+> Pandas | Seaborn | NLTK | Wordcloud | Sklearn | XGBoost | Flask                                                 
+* End-to-End project that investigated purchase analysis on customer flight booking & information from British Airways.
+*  Web scraped customers opinions & conducted sentiment analysis to understand their impression about the airline. 
+*  Built a predictive model to help in understanding customer future behavior regarding flight purchase.
+*  Deployed the model as a Flask app to PythonAnywhere.
 
 ### [EXPO2020 Twitter Sentiemnt Analysis](https://github.com/MoRaouf/Twitter-Sentiment-Analysis) ###
 > Pandas | NLTK | Tweepy | Sklearn | Gensim | Wordcloud                                                   
 * Built a multi-label sentiment classifier on "EXPO2020" tweets using different text processing techniques to analyze audience opinions. 
 * Applied topic modeling to understand mainstream topics of the event.
 
+
+### [Dubai Properties  Recommender System](https://github.com/MoRaouf/Dubai-Real-Estate-AI) ###
+* End to End project on Real Estate in Dubai city. Work is still in progress . . .
 
 ### [BCG Energy Customer Churn Analysis](https://github.com/MoRaouf/BCG-Energy-Customer-Churn-Analysis) ###
 > Pandas | Matplotlib | Seaborn | Sklearn                                                  
